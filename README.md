@@ -1,2 +1,2 @@
 # Inout6.0
-Making a game using Matic network.
+Making a game using Marlin network.
